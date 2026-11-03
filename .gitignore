@@ -1,0 +1,26 @@
+# IDE files
+.vscode/
+
+# Logs
+*.log
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Build directories
+build/
+dist/
+bin/
+
+# Node (eval harness)
+node_modules/
+
+# Claude Code settings
+.claude
+
+# Environment files
+.env*
